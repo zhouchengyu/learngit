@@ -9,7 +9,7 @@ creating a new branch is quick AND simple
 >>>>>>> feature1
 insert a new line
 
-
+for the merge-test
 
 
 
